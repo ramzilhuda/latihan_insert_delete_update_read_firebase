@@ -1,6 +1,9 @@
 # latihan_login_firebase
 
-A new Flutter project.
+Aplikasi sederhana CRUD di firebase
+![Screenshot_2020-08-16-11-39-28-33_afdea92c6f1a4bc839339bfe52ab2c9d 1](https://user-images.githubusercontent.com/60292040/90326665-47820780-dfb5-11ea-8339-22ca22beff79.jpg)
+![firebase](https://user-images.githubusercontent.com/60292040/90326672-5c5e9b00-dfb5-11ea-88a0-d2e528a4dfd8.png)
+
 
 ## Getting Started
 
